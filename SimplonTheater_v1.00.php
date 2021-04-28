@@ -117,7 +117,7 @@
 /* include "config.php"; Bac à sable sur online.fr */
 $StDBHost = "localhost"; /* MySql database server */
 $StDBLogin = "votre.informaticien"; /* MySql database login */
-$StDBPasswd = "Simplon01"; /* MySql database password */
+$StDBPasswd = "*********"; /* MySql database password */
 $StDBName = "votre_informaticien"; /* MySql database name */
 $StInstallPath = "/"; /* relatif path to SimplonTheater distribution */
 $StSiteName = "Simplon Theater"; /* your site name */
